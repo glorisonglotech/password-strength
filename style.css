@@ -1,0 +1,25 @@
+body{
+    background-color: aliceblue;
+    color: black;
+}
+.input-box input{
+    height: 40px;
+    width: 300px;
+    outline: none;
+    position: absolute;
+    background: transparent;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 24px;
+}
+.input-box img{
+    height: 45px;
+    position: absolute;
+    left: 50%;
+    cursor: pointer;
+}
+#message{
+    position: absolute;
+    top: 10%;
+    display: none;
+}
